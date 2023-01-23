@@ -1,5 +1,3 @@
-import AddUser from '../Users/AddUser'
-
 import style from './Card.module.css'
 
 const Card = (props) => {
