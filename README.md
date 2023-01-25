@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Project link : [Expense Calculator](https://createuserlist-sakebul.netlify.app/)
+## Live Project link : [Create User List](https://createuserlist-sakebul.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
